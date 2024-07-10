@@ -21,20 +21,19 @@ which will each illustrate what I've learned with my coding experience at CodeX 
 
 ## Roadmap
 
-- [ ]
-- [ ] 
-- [ ] 
-- [ ] 
+- [.]
+- [.] 
+- [.] 
+- [.] 
 
 ## Wireframe
 
-An image of your wireframe (Required)
-![wireframe of index.html](img/https://res.cloudinary.com/dr1co3dil/image/upload/v1720579100/Wireframe_I_rsy0dh.png)
-![wireframe of gallery.html](img/https://res.cloudinary.com/dr1co3dil/image/upload/v1720579100/Wireframe_III_uvhgle.png)
-
+![Wireframe for index.html](<Wireframe I.png>)
+![Wireframe for locations.html](<Wireframe II.png>)
+![Wireframe for gallery.html](<Wireframe III.png>)
 ## Contact
 
-Raivyn Bates
+Raivyn Bates | 
 raivynbates@gmail.com
 
 ## Acknowledgements 
