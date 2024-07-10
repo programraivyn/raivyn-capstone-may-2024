@@ -21,8 +21,8 @@ which will each illustrate what I've learned with my coding experience at CodeX 
 
 ## Roadmap
 
-- 
--  
+- [x]
+- [x] 
 
 ## Wireframe
 
