@@ -20,11 +20,11 @@ This repository is dedicated to my bucket list desires, which consist of places 
 - [x] Create activities.html based on Wireframe
 - [x] Create locations.html based on Wireframe
 - [ ] Style each page according to Wireframe
-- [ ] Include Bootstrap
+- [x] Include Bootstrap
 - [ ] Include CSS via external stylesheet
-- [ ] Check for proper indentation and syntax
+- [x] Check for proper indentation and syntax
 - [ ] Check for any errors
-- [ ] Test in Live Server 
+- [x] Test in Live Server 
 - [ ] Push to GitHub and submit to Moodle 
 
 ## Wireframe
