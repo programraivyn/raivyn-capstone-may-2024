@@ -12,6 +12,7 @@ This repository is dedicated to my bucket list desires, which consist of places 
 * HTML
 * CSS
 * Bootstrap 
+* JavaScript
 
 ## Roadmap
 
@@ -19,13 +20,13 @@ This repository is dedicated to my bucket list desires, which consist of places 
 - [x] Create gallery.html based on Wireframe
 - [x] Create activities.html based on Wireframe
 - [x] Create locations.html based on Wireframe
-- [ ] Style each page according to Wireframe
+- [x] Style each page according to Wireframe
 - [x] Include Bootstrap
-- [ ] Include CSS via external stylesheet
+- [x] Include CSS via external stylesheet
 - [x] Check for proper indentation and syntax
-- [ ] Check for any errors
+- [x] Check for any errors
 - [x] Test in Live Server 
-- [ ] Push to GitHub and submit to Moodle 
+- [x] Push to GitHub and submit to Moodle 
 
 ## Wireframe
 
@@ -37,11 +38,17 @@ This repository is dedicated to my bucket list desires, which consist of places 
 Raivyn Bates | 
 raivynbates@gmail.com
 
+## Final Revision and Submission
+
+Completed on Friday, July 19th, at 5:40 PM CST
+
 ## Acknowledgements 
 
 - CodeX Academy
-- getbootstrap.com
+- Bootstrap
 - W3Schools
 - SheCodes.io
-
+- Cloudinary 
+- Canva
+- Pexels 
 
