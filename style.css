@@ -1,0 +1,64 @@
+body {
+    background-color: powderblue;
+    color: white;
+}
+
+h1 {
+    color: plum;
+}
+
+.Mentions {
+    display: flex;
+    justify-content: space-around;
+    color: white;
+    text-shadow:black 2px 2px 2px;
+}
+
+.buttonFun {
+    display: flex;
+    justify-content: space-around;
+}
+
+#localHeader {
+    color: white;
+    text-shadow:black 2px 1px 1px; 
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.miscPic {
+    display: flex;
+    justify-content: space-around;
+}
+
+#oneOffActivities {
+    background-color: transparent;
+    border: dotted 2px white;
+    color: white;
+    border-radius: 20%;
+}
+
+#experienceOne {
+    background-color: transparent;
+    border: dotted 2px white;
+    color: white;
+    border-radius: 20%;
+}
+
+#button4Cart {
+    background-color: transparent;
+    border: dotted 2px white;
+    color: white;
+    border-radius: 20%;
+}
+
+.g-col-6 {
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    margin-top: 90px;
+}
+
+footer {
+    font-size: 8px;
+    font-family:'Times New Roman', Times, serif;
+}
