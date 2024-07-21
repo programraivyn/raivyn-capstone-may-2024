@@ -35,8 +35,9 @@ function desiresParty() {
   }
 oneOffActivities.onclick = toDoList; 
 
-document.getElementById("Bye4Now").innerHTML = untilNextTime("Dear friend");
+document.getElementById("Bye4Now").innerHTML = untilNextTime("dear friend");
 
 function untilNextTime(name) {
-    return alert(`You've made it to the JS party!`);
+    alert(`You've made it to the JS party!`);
+    return `Goodbye for now, ${name}`;
 }
