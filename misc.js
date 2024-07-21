@@ -12,7 +12,7 @@ function desiresParty() {
   function experience1() {
     let number, guess, guessNumber;
     number = 17;
-    guess = prompt("Try to guess the number of states of I've been to so far..");
+    guess = prompt("Try to guess the number of states I've been to so far..");
     guessNumber = Number(guess);
 
     if (guessNumber === number) {
